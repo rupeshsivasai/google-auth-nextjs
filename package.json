@@ -16,5 +16,6 @@
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "tailwindcss": "^4"
-  }
+  },
+  "packageManager": "yarn@4.12.0"
 }
