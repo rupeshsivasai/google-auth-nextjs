@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(yarn dev)",
+      "Bash(yarn next dev --no-turbopack)",
+      "Bash(yarn install)",
+      "Bash(taskkill:*)"
+    ]
+  }
+}
